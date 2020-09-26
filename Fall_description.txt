@@ -1,0 +1,30 @@
+Python and TensorFlow: Text Classification -- Part 3
+
+General Description:
+In this series of videos, we will be using the TensorFlow Python module to construct a neural network that distinguishes whether a given movie review is either positive or negative. 
+
+We will be obtaining movie reviews from IMDB (Internet Movie Database) and using that as our dataset. The intent of these videos is to showcase the use of TensorFlow as well as showing a simple example of how to construct and use a simple neural network.
+
+This video is part of a series on Machine Learning in Python. The link to the playlist may be accessed here:
+http://bit.ly/lp_mlearn
+
+Part 1: https://www.youtube.com/watch?v=-vAgZpyfv40
+Part 2: https://www.youtube.com/watch?v=Rc2XHfk_jss
+Part 3: https://www.youtube.com/watch?v=qnpMplNJF6g
+Part 4: https://www.youtube.com/watch?v=tC1amOAkojE
+Part 5: https://www.youtube.com/watch?v=2erlC7R3OEI
+
+Python Code:
+https://github.com/vprusso/youtube_tutorials/blob/master/machine_learning/text_classification/imdb.py
+
+If I've helped you, feel free to buy me a beer :)
+PayPal: https://www.paypal.me/VincentRusso1
+
+Do you like the development environment I'm using in this video? It's a customized version of vim that's enhanced for Python development. If you want to see how I set up my vim, I have a series on this here:
+http://bit.ly/lp_vim
+
+If you've found this video helpful and want to stay up-to-date with the latest videos posted on this channel, please subscribe:
+http://bit.ly/lp_subscribe
+
+This video is brought to you by DevMountain, a private coding boot camp that offers in-person and online courses in a variety of subjects including web development, mobile programming, user experience design, software quality assurance, and salesforce development.
+https://devmountain.com/?utm_source=Lucid%20Programming
